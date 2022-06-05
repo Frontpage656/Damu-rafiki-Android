@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".LogIn">
+
+    <LinearLayout
+        android:id="@+id/top_it"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/main_red_logo"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KARIBU TENA"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/my_primary_color"
+            android:fontFamily="@font/roboto_bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="253dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/roboto_medium"
+            android:text="Taarifazako zilitunzwa kwa usahihi, zilitunzwa kwa usahihi"
+            android:textAlignment="center"
+            android:textSize="15dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Jina"
+            android:layout_marginTop="50dp"
+            android:padding="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/inputs"/>
+
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="27dp"
+      android:layout_marginLeft="20dp"
+      android:padding="8dp"
+      android:layout_marginRight="20dp"
+      android:background="@drawable/inputs"
+      android:orientation="horizontal">
+
+      <com.hbb20.CountryCodePicker
+          android:id="@+id/ccp"
+          android:layout_width="55dp"
+          android:layout_height="wrap_content"
+          app:ccp_autoDetectCountry="true" />
+
+
+      <EditText
+          android:layout_width="230dp"
+          android:layout_height="38dp"
+          android:layout_marginRight="25dp"
+          android:background="@drawable/empty"
+          android:hint="Namba ya simu"
+          android:inputType="number" />
+
+  </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="JISAJIRI?"
+            android:textSize="14dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/my_primary_color"
+            android:fontFamily="@font/roboto_bold"
+            android:gravity="end"/>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/my_primary_color"
+        android:fontFamily="@font/roboto_bold"
+        android:gravity="center"
+        android:text="INGIA"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+</RelativeLayout>
