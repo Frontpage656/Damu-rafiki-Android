@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973254742242",
+    "project_id": "damu-rafiki",
+    "storage_bucket": "damu-rafiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973254742242:android:2e65126ad48784a434cebb",
+        "android_client_info": {
+          "package_name": "com.example.damurafiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973254742242-u4jqod502hlrkbq6d89r1cgf7ns9o0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoexP4oOCSTER1VpCn_NMKqPztolTBEAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973254742242-u4jqod502hlrkbq6d89r1cgf7ns9o0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

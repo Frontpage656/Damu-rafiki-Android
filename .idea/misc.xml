@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/blood_round.xml" value="0.1375" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/empty.xml" value="0.1545" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/inputs.xml" value="0.1545" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/top_up.xml" value="0.1545" />
@@ -12,6 +13,7 @@
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_log_in.xml" value="0.22" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_main_page.xml" value="0.22" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_post_it.xml" value="0.25" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_account.xml" value="0.22" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_scan_number.xml" value="0.22" />

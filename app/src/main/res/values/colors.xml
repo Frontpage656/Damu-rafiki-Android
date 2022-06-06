@@ -10,4 +10,5 @@
     <color name="black">#FF000000</color>
     <color name="dotts">#DBDBDB</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="text_shadow">#D3D3D3</color>
 </resources>
