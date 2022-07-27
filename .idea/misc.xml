@@ -3,18 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/a_neg.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/a_plus.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/ab_neg.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/ab_plus.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/b_neg.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/b_plus.xml" value="0.167" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/blood_round.xml" value="0.1375" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/blood_round_a+.xml" value="0.167" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/empty.xml" value="0.1545" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/inputs.xml" value="0.1545" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/o_neg.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/o_plus.xml" value="0.167" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/sidia_button.xml" value="0.167" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/top_up.xml" value="0.1545" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/drawable/trans.xml" value="0.195" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_all_walkthrough.xml" value="0.22447916666666667" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_ask_for_blood.xml" value="0.22" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_confimation.xml" value="0.25" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_log_in.xml" value="0.22" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_main_page.xml" value="0.22" />
-        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_post_it.xml" value="0.25" />
-        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_account.xml" value="0.22" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_new_request.xml" value="0.25" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/activity_post_it.xml" value="0.22" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/card_it.xml" value="0.25" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/custom_layout.xml" value="0.25" />
+        <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_account.xml" value="0.25" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/fragment_scan_number.xml" value="0.22" />
         <entry key="..\:/Android Projects/Damurafiki/app/src/main/res/layout/slider_layout.xml" value="0.18903508771929825" />

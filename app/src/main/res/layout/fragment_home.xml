@@ -212,7 +212,7 @@
                     </androidx.cardview.widget.CardView>
 
                     <androidx.cardview.widget.CardView
-                        android:id="@+id/new_request_card"
+                        android:id="@+id/blood_health_card"
                         style="@style/Base.CardView"
                         android:layout_margin="3dp"
                         android:layout_width="115dp"
@@ -255,7 +255,7 @@
                     android:orientation="vertical">
 
                     <androidx.cardview.widget.CardView
-                        android:id="@+id/blood_health_card"
+                        android:id="@+id/new_request_card"
                         style="@style/Base.CardView"
                         android:layout_margin="10dp"
                         android:layout_width="115dp"

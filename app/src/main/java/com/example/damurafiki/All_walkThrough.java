@@ -50,7 +50,7 @@ public class All_walkThrough extends AppCompatActivity {
         button_finish.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(), LogIn.class));
+                startActivity(new Intent(getApplicationContext(), MainPage.class));
                 finish();
             }
         });

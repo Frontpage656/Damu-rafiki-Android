@@ -4,8 +4,10 @@
     package="com.example.damurafiki">
 
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
+        android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,6 +17,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DamuRafiki"
         tools:targetApi="31">
+        <activity
+            android:name=".NewRequest"
+            android:exported="false" />
         <activity
             android:name=".Post_it"
             android:exported="false" />

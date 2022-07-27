@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.damurafiki.Ask_for_blood;
+import com.example.damurafiki.NewRequest;
 import com.example.damurafiki.R;
 
 
@@ -33,6 +34,13 @@ public class HomeFrag extends Fragment {
            @Override
            public void onClick(View view) {
                startActivity(new Intent(getContext(), Ask_for_blood.class));
+           }
+       });
+
+       new_request_card.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View view) {
+               startActivity(new Intent(getContext(), NewRequest.class));
            }
        });
 

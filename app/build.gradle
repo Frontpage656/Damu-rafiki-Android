@@ -45,4 +45,10 @@ dependencies {
     implementation 'com.github.aabhasr1:OtpView:v1.1.2'
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.journeyapps:zxing-android-embedded:4.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.android.volley:volley:1.2.1'
+
+    implementation 'com.github.vipulasri:timelineview:1.1.5'
+    implementation 'com.github.baoyachi:StepView:1.9'
+    implementation 'com.android.support:multidex:1.0.3'
 }

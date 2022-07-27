@@ -49,6 +49,7 @@ public class Post_it extends AppCompatActivity {
                         .addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
                             @Override
                             public void onComplete(@NonNull Task<DocumentSnapshot> task) {
+
                                     blood_group.setText(String.valueOf(task.getResult().get("blood_group")));
                                     chupa_count.setText(String.valueOf(task.getResult().get("chupa_count")));
                                     person_name.setText(String.valueOf(task.getResult().get("mgojwa_name")));
