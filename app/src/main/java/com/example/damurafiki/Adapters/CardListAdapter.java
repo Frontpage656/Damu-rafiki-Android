@@ -194,6 +194,7 @@ public class CardListAdapter extends RecyclerView.Adapter<CardListAdapter.ViewHo
 
                             HashMap<String, String> headers = new HashMap<>();
                             headers.put("Content-Type", "application/json; charset=utf-8");
+                            headers.put("Bearer Token","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");
 
                             return headers;
                         }
